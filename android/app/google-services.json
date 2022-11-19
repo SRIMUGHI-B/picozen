@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "579269526396",
+    "project_id": "picozenauth",
+    "storage_bucket": "picozenauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579269526396:android:7b70b13e505a31c5241af9",
+        "android_client_info": {
+          "package_name": "com.example.picozen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579269526396-v608mur305iv475rjvhee9hc43mv8p9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.picozen",
+            "certificate_hash": "f879c9d1f3d27192879353a9139a5a5cfdb383a8"
+          }
+        },
+        {
+          "client_id": "579269526396-ekdqci6f8j89pgqq3j85505v03si8e7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUwuYseEP3rC3HrDWfU9IUjytA4yhsqgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579269526396-ekdqci6f8j89pgqq3j85505v03si8e7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
